@@ -7,3 +7,6 @@ To run the shell script:
 3. or: ssh s<studentnumber>@karora.let.rug.nl bash < abbr2020.sh
 4. Enter your karora password
 5. The script will print all frequencies for the 1st and 31st of December 2015 or 2020
+
+
+The frequencies are stored in stats2015 and stats2020.
